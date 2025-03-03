@@ -12,7 +12,7 @@ body {
   width: 180px;
   height: 180px;
   background-color: #fd79a8;
-  margin: 300px auto;
+  margin: 200px auto;
   position: relative;
   transform: rotate(45deg);
   z-index: 1;
